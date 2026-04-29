@@ -1,7 +1,7 @@
 
 # Jason Rosales Portfolio
 
-I am a electrical engineering Major at CSUF and I plan on graduating in 2029.
+I am a electrical engineering major at CSUF and I plan on graduating in 2029.
 
 ## Favorite CPSC 120L Labs
 
